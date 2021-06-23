@@ -1,3 +1,6 @@
+# Help with maintenance would be appreciated!
+#### If interested please send me an email: tasos.maroudas@codedlines.com
+
 # Contents
 * [The package](#react-native-responsive-screen)
 * [Installation](#installation)
@@ -37,6 +40,7 @@ Check out [this medium article](https://medium.com/react-native-training/build-r
 * You can use this package along with `styled-components`. To see how to do that, check example number 2.
 
 # Updates 🚀
+* `v1.4.0` onwards: The library now has flowtype support. Types should work out of the box, no additional setup needed.
 * `widthPercentageToDP` and `heightPercentageToDP` methods accept numeric values as well from version 1.2.1 onwards. That being said a width of 53% can now be written both `width: widthPercentageToDP('53%')` and `width: widthPercentageToDP(53)`.
 
 # Examples
